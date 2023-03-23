@@ -1,2 +1,2 @@
 **[Hello-world]** is a project to create brunches with different base brunches, understand the concept of version control, follow GitHub flow, open pull request in GitHub, Write descriptive, easy to understand commit messages,
-Write short, detailed, easy to understand descriptions of pull requests, Write a descriptive and easy to understand README in business English for every project submitted, Demonstrate an ability to submit a project for code review.
+Write short, detailed, easy to understand descriptions of pull requests, Write a descriptive and easy to understand README in business English for every project submitted, Demonstgrate an ability to submit a project for code review.
